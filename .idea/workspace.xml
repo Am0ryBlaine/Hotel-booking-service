@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eca6b4bd-9a03-4707-82c7-54c2dca5d256" name="Changes" comment="" />
+    <list default="true" id="eca6b4bd-9a03-4707-82c7-54c2dca5d256" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dhotelservice/bookings/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dhotelservice/bookings/tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dhotelservice/bookings/tests/test_models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dhotelservice/bookings/tests/test_views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dhotelservice/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HotelServiceProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HotelServiceProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dhotelservice/bookings/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/dhotelservice/bookings/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dhotelservice/bookings/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/dhotelservice/bookings/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dhotelservice/hotel_service/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/dhotelservice/hotel_service/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,16 +45,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.sitebookings.executor": "Run",
-    "Python.urls.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.sitebookings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.urls.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="urls" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HotelServiceProject" />
@@ -93,5 +104,6 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="Dockerfile" />
     <option featureType="com.intellij.fileTypeFactory" implementationName="docker-compose.yml" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ini" />
   </component>
 </project>

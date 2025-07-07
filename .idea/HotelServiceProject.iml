@@ -4,6 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/dhotelservice/bookings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/dhotelservice/hotel_service" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dhotelservice" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.venv/Include" />
       <excludeFolder url="file://$MODULE_DIR$/.venv/Lib" />
       <excludeFolder url="file://$MODULE_DIR$/.venv/Scripts" />

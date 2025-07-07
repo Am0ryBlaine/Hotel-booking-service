@@ -56,7 +56,8 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'dhotelservice.urls'
+ROOT_URLCONF = 'hotel_service.urls'
+WSGI_APPLICATION = 'hotel_service.wsgi.application'
 
 TEMPLATES = [
     {
@@ -85,7 +86,7 @@ DATABASES = {
         'NAME': 'localdb_utf8',
         'USER': 'postgres',
         'PASSWORD': '2025DB',
-        'HOST': 'db',
+        'HOST': 'localhost',
         'PORT': '5432',
         'OPTIONS': {
             'client_encoding': 'UTF8',
